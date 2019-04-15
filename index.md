@@ -30,4 +30,4 @@ This page is dedicated towards the Tamil God Murugan.
 
 ### Kumara - teaching his father - on Pranava Manthra !
 
-![Kumara instructing his father](https://github.com/deepanprabhu/muruga/blob/master/Kumara-2.jpg)
+![Kumara instructing his father](Kumara-2.jpg)
